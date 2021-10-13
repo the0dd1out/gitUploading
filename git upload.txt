@@ -1,0 +1,15 @@
+// to initiate
+$ git init
+
+// to varify username & mail
+$ git config --global user.name "FIRST_NAME LAST_NAME"
+$ git config --global user.email "MY_NAME@example.com"
+
+// to stage everything(before commiting)
+$ git add -A
+
+// to commit
+$ git commit -m "put any comment here"
+
+Then add push part of the github project here...
+
